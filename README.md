@@ -8,7 +8,7 @@ Visit my site [here](https://www.yasserzaheer.com)
 3. HTML
 4. PostgreSQL
 
-Project deployed on Heroku through heroku git. As such, to view code please download and unzip **portfolio.zip** to see as it is not possible to have two Git repos.
+Project deployed on Heroku through heroku git. As such, to view code please download and unzip **portfolio.zip** to see as it is a big project.
 
 ### Folders to be aware of:
 1. portolio - app created with django project, used only for routing purposes
